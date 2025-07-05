@@ -1,6 +1,6 @@
 This small example allows you to demonstrate working with ansible:
 
-#How to replicate
+# How to replicate
 
 1. Install ansible, for example in debian-base distributions: apt-get install ansible
 2. Configure the remote machines you are looking for: create users, set up ssh key connections. 3. 
